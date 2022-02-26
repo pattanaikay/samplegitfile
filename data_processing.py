@@ -10,4 +10,9 @@ def sum(a, b):
 def diff(a, b):
     c = a - b
     print("The difference of two numbers is " + abs(c))
+
+def multiplication(a,b):
+    c = a*b
+    print("The muliplication of two numbers is " + c)
+
     
